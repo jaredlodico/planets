@@ -1,0 +1,13 @@
+
+
+
+# 
+*.dat
+!a.png
+pictures/
+
+
+! -> this will negate the ignore function
+* -> this will ignore all files with this link
+(folder)/ -> this will ignore everything in a folder
+
